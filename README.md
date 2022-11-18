@@ -32,11 +32,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
 
 <div align="center">
-<img src="https://unknownbrian008.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
 
-
-</td></tr></table>  
 
 <br/>  
 
