@@ -1,5 +1,5 @@
 # unknownbrian008
-## **👋 This is BrianTech008. A .NET Dev**  
+## **👋 This is BrianTech★. A .NET Dev**  
   
 
 <div align="center">
@@ -9,7 +9,7 @@
 <a href="https://twitter.com/unknownbrian008 " target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/Unknownbrian008 " target="_blank">
+<a href="https://instagram.com/unknownbrian008 " target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.youtube.com/user/https://www.youtube.com/channel/UC_u4umU69uARTAp-ViTadeg" target="_blank">
@@ -28,26 +28,8 @@
 
 I specialize in building robust backends that do all the heavy lifting for your app or website. I love designing systems that are light yet powerful, distributed yet synchronized and beautiful yet effective. I also frequently blog about the world behind the screen which involves system designs, databases, security, servers, optimisation and also promising technologies like Blockchain and PWAs.**  
   
-
 <br/>  
 
-
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
-  
-
-- 🌱 I’m currently learning Python and Kubernetes  
-  
-
-- ❓ Ask me about anything related to dotNET and related technologies  
-  
-
-- ⚡ Fun fact: I keep night shift swithed on at all times   
-
-
-</td><td valign="top" width="50%">
 
 <div align="center">
 <img src="https://unknownbrian008.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
@@ -99,7 +81,6 @@ I specialize in building robust backends that do all the heavy lifting for your 
 <a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="25" /></a>  
 <a href="https://dotnet.microsoft.com/download" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="25" /></a>  
 </div>  
-
 <br/>  
 
 
